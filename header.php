@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Nghia's HW 5</title>
+    <title>Nghia's HW 6</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
   </head>
   <body>
@@ -57,6 +57,6 @@
 </nav>
     <div class="card">
   <div class="card-body">
-    Welcome to Nghia's MIS 4013 HW 5.
+    Welcome to Nghia's MIS 4013 HW 6.
   </div>
 </div>
