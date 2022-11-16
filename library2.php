@@ -24,7 +24,7 @@ new Chart("myChart", {
   data: {
     datasets: [{
       pointRadius: 4,
-      pointBackgroundColor: "rgb(0,90,135)",
+      pointBackgroundColor: "rgb(0,0,255)",
       data: xyValues
     }]
   },
@@ -40,3 +40,5 @@ new Chart("myChart", {
 
 </body>
 </html>
+
+
