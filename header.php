@@ -19,20 +19,18 @@
           <a class="nav-link active" aria-current="page" href="index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="function1.php">Function 1</a>
+          <a class="nav-link active" aria-current="page" href="library1.php">Library 1</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="function2.php">Function 2</a>
+          <a class="nav-link active" aria-current="page" href="library2.php">Library 2</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="function3.php">Function 3</a>
+          <a class="nav-link active" aria-current="page" href="library3.php">Library 3</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="function4.php">Function 4</a>
+          <a class="nav-link active" aria-current="page" href="library4.php">Library 4</a>
         </li>
-                <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="function5.php">Function 5</a>
-        </li>
+
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Non-Relevant Dropdown
